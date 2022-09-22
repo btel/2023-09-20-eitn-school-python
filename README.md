@@ -6,7 +6,7 @@ Author: Bartosz Telenczuk, https://datascience.telenczuk.pl
 
 ## Installation
 
-To view the notebooks you can open the file in your browser by clicking on the filename (with `.ipynb` extension) or by following the links below.
+To view the notebooks you can open the file in your browser by clicking on the filename (with `.ipynb` extension) or by following the [Notebooks](#notebooks) section below links below.
 
 To run this notebooks locally:
 
