@@ -1,6 +1,6 @@
 # Data analysis in Python
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://github.com/btel/2023-09-20-eitn-school-python)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://btel.github.io/2023-09-20-eitn-school-python)
 
 Tutorial of [EITN school 2023](https://eitnschool2022.sciencesconf.org/program).
 
