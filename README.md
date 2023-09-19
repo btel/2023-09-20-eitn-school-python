@@ -1,6 +1,8 @@
 # Data analysis in Python
 
-Tutorial of [EITN school 2022](https://eitnschool2022.sciencesconf.org/program).
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://github.com/btel/2023-09-20-eitn-school-python)
+
+Tutorial of [EITN school 2023](https://eitnschool2022.sciencesconf.org/program).
 
 Author: Bartosz Telenczuk, https://datascience.telenczuk.pl
 
